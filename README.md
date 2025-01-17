@@ -11,5 +11,4 @@ Below are the projects I have done! 😄
                                                                                                                                           
 ### 📇 Projects
                                                                                                                                           
-- [![image](https://github.com/user-attachments/assets/4f899e8d-ba5b-437d-9891-2aae53a95bc1)
- Training and Placement Cell Management System ](https://github.com/divyeshtharakan/Training-and-Placement-Cell.git)                                                                             
+- 🏫 [Training and Placement Cell Management System ](https://github.com/divyeshtharakan/Training-and-Placement-Cell.git)                                                                             
