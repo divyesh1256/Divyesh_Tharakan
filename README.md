@@ -5,13 +5,11 @@
 
 I'm Divyesh Tharakan, a Master's student in Computer Science and Engineering at VIT Vellore. My career pursuit is towards becoming a Cybersecurity professional.
 
-Below are the DATA related projects I have done! 😄
+Below are the projects I have done! 😄
 
 ---
                                                                                                                                           
-### 📇 Data Projects
+### 📇 Projects
                                                                                                                                           
-- [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)
-- [ ⛅ Big Data Analytics in Weather Forecasting ](https://github.com/SouravGanesh/Big-Data-Analytics-in-Weather-Forecasting)                                                        
-- [ 🔎 Tableau Data Visualization ](https://github.com/SouravGanesh/Healthcare-Analytics-Tableau/)
-- [ 👨🏻‍💻 Power BI - Realtime CPU/Memory Usage Visualization ](https://github.com/SouravGanesh/RealTime-CPU-Memory-Usage-Analysis/)                                                                                 
+- [![image](https://github.com/user-attachments/assets/4f899e8d-ba5b-437d-9891-2aae53a95bc1)
+ Training and Placement Cell Management System ](https://github.com/divyeshtharakan/Training-and-Placement-Cell.git)                                                                             
