@@ -1,4 +1,4 @@
-## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px"/>]([https://www.linkedin.com/in/divyesh-tharakan/](https://www.linkedin.com/in/divyesh-tharakan-3a6225195/))
+## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px"/>]([https://www.linkedin.com/in/shivrajpatil2000/](https://www.linkedin.com/in/divyesh-tharakan-3a6225195/))
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
