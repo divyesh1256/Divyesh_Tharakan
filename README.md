@@ -11,7 +11,8 @@ Below are the projects I have done! 😄
                                                                                                                                           
 ### 📇 Projects
                                                                                                                                           
-- 🏫 [Training and Placement Cell Management System ](https://github.com/divyeshtharakan/Training-and-Placement-Cell.git)
+- 🏫 [Training and Placement Cell Management System ](https://github.com/divyeshtharakan/Training-and-Placement-Cell)
+- 💼 [Power-BI-HR-Workforce-Analysis](https://github.com/divyeshtharakan/Power-BI-HR-Workforce-Analysis)
 
 ---
 
