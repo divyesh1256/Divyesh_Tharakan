@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
 
-I'm Divyesh Tharakan, a Master's student in Computer Science and Engineering at VIT Vellore. My career pursuit is towards becoming a Cybersecurity professional.
+I'm Divyesh Tharakan, a Master's student in Information Security at VIT Vellore. My career pursuit is towards becoming a Cybersecurity professional.
 
 Below are the projects I have done! 😄
 
